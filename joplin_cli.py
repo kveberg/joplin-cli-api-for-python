@@ -6,8 +6,7 @@
     WARNING: Running Joplin CLI while using this API is likely bad.
 """
 
-from joplin_run_commands import *
-from helpers import give_quotes
+from helpers import *
 
 
 def attach(note, file_path):
