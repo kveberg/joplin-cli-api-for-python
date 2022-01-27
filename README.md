@@ -1,5 +1,5 @@
 # Joplin Command Line Interface (CLI) API for Python
-You are most likely looking for Joplins REST API detailed on the [Joplin homepage](https://joplinapp.org/api/references/rest_api/). My API communicates with the [Joplin Terminal Application](https://joplinapp.org/terminal/), and is made for fun using my rudimentary Python skills. Should you nonetheless find it to your liking -- feel free to contribute!
+You are most likely looking for Joplins REST API detailed on the [Joplin homepage](https://joplinapp.org/api/references/rest_api/). My API communicates with the [Joplin Terminal Application](https://joplinapp.org/terminal/). Should you nonetheless find it to your liking -- feel free to contribute!
 
 # Files
 - helpers.py                helpers
